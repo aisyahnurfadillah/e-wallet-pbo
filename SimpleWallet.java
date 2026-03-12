@@ -1,4 +1,4 @@
-class SimpleWallet extends Main{
+class SimpleWallet{
     private String owner;
     private double balance;
 
